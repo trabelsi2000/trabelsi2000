@@ -2,7 +2,6 @@
 
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >     
 - 🌱 🌱 I’m currently *looking for a job*  
-
 - 📫 How to reach me *anes.trabelsi@enicar.ucar.tn*  
 
 <h3 align="left">Connect with me:</h3> 
